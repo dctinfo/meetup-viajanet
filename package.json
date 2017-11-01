@@ -1,0 +1,19 @@
+{
+  "name": "meetup-viajanet",
+  "version": "1.0.0",
+  "description": "Hello World ViajaNet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dctinfo/meetup-viajanet.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dctinfo/meetup-viajanet/issues"
+  },
+  "homepage": "https://github.com/dctinfo/meetup-viajanet#readme"
+}
